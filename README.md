@@ -1,3 +1,6 @@
+## POINTS: 2.0
+## KEY: Good Job!
+
 # React Introduction 1 Classwork
 
 ### Exercise 1:
